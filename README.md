@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators. Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge)
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch Anime, sing and play Video Games
-- 🗺 If you want to Reach me  : [Coonect](https://www.linkedin.com/in/manthanugemuge/) ;
+- 🗺 If you want to Reach me  : [Connect](https://www.linkedin.com/in/manthanugemuge/) ;
 
 
 ### Connect with me:
