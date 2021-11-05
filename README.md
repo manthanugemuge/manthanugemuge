@@ -49,7 +49,7 @@
   <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=manthanugemuge&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanugemuge&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
  
 </details>
