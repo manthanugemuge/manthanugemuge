@@ -45,13 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanUgemuge&theme=tokyonight"  />
 </p>
  <b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
-<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
-
-<details>
-   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+## 📊 **Contribution Graph**
+<p align="center">
+ <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=rogue" /></a>
+</p>
    <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=rogue" /></a>
-</details>
-
+   
 
