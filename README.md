@@ -3,12 +3,12 @@
 ## I'm a Student, learning and sharing!
 
 <!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
-- 👩‍💻  I’m currently Studing BTech in CSE 💻
-- 🌱 I’m currently learning  Web Development and UI/UX
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I’m looking to collaborate with **Other Content Creators**. Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge)
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch Anime, sing and play Video Games
-- 🗺 If you want to Reach me  : [Connect](https://www.linkedin.com/in/manthanugemuge/) ;
+- 👩‍💻  I’m currently Studing BTech in CSE 💻.
+- 🌱 I’m currently learning  Web Development and UI/UX.
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I’m looking to collaborate with **Other Content Creators**. Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge).
+- 🥅 Goals: Contribute more to Open Source projects and want to Keep Leaning.
+- ⚡ Fun fact: I love watching Anime, listening Music and playing Video Games.
+- 🗺 If you want to Reach me  :  **manthan.ugemuge2@gmail.com**.
 
 
 ### Connect with me:
