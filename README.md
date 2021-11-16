@@ -50,7 +50,7 @@
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=tokyonight" /></a>
+   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=rogue" /></a>
 </details>
 
 
