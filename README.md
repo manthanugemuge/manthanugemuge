@@ -1,4 +1,4 @@
-# Hey there, I'm Manthan  <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Hi.gif" width="29px">
+# Hey there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Hi.gif" width="29px">, I'm Manthan  
 
 ## I'm a Student, learning and sharing!
 
