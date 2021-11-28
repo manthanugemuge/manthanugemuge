@@ -34,8 +34,8 @@
 ## 📊 My Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanUgemuge&theme=tokyonight"  />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />
 </p>
  <b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
