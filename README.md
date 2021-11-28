@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Hi.gif" width="29px">, I'm Manthan </h1>
 <h3 align="center">I'm a passionate third year student from LPU , Jalandar learning and sharing! </h3>
-<h3 align="center">📄<a href="https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf"> My Resume </a> </h3></div>
+<!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
 
 
 ## 🙋‍♂️ About Me
