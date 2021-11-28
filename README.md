@@ -1,7 +1,9 @@
-# Hey there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Hi.gif" width="29px">, I'm Manthan  
+<h1 align="center"> Hey there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Hi.gif" width="29px">, I'm Manthan </h1>
+<h3 align="center">I'm a passionate third year student from LPU , Jalandar learning and sharing! </h3>
+<h3 align="center">📄<a href="https://github.com/nisarg0/Resume/blob/main/Nisarg%20Resume.pdf"> My Resume </a> </h3></div>
 
-## I'm a Student, learning and sharing!
 
+## 🙋‍♂️ About Me
 <!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I’m looking to collaborate with `Other Content Creators`. Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge).
 - 👩‍💻  I’m currently Studing `BTech in CSE 💻`.
