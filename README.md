@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanUgemuge&theme=tokyonight"  />
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ManthanUgemuge}/count.svg" /></p> 
 <br></div>
 </p>
  <b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
