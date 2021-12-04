@@ -35,10 +35,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanUgemuge&theme=tokyonight"  />
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ManthanUgemuge}/count.svg" /></p> 
-<br></div>
+<p align="right"><b>Visitors Count</b></p>  
+<img  src="https://profile-counter.glitch.me/{ManthanUgemuge}/count.svg" />
+
 </p>
  <b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
