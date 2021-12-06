@@ -9,7 +9,7 @@
 - 🌱 I’m currently Learning  `Data Structures and Algorithms` & `UI/UX`.
 - 🥅 Goals: Contribute more to `Open Source projects` and want to `Keep Leaning`.
 - ⚡ Fun fact: I love `watching Anime`, `listening Music` and `playing Video Games`.
-- 🗺 If you want to Reach me  :  **manthan.ugemuge2@gmail.com**.
+- 🗺 If you want to Reach me  :  [here](https://github.com/ManthanUgemuge/ManthanUgemuge/issues)
 <br />
 
 ### Languages and Tools:
