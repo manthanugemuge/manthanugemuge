@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="100px">
+<img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="150px">
  </p>
  
 <h1 align="center"> Hey there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm Manthan </h1>
