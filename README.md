@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" height="60px"/></a>
 <img align="center" src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png">
 <h1 align="center"> Hey there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm Manthan </h1>
 <h3 align="center">I'm a passionate Third year student from  <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> LPU, Jalandar Learning and Sharing! </h3>
