@@ -2,7 +2,7 @@
 <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="150px">
  </p>
  
-<h1 align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm [Manthan](https://github.com/ManthanUgemuge) </h1>
+<h1 align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm Manthan </h1>
 <h3 align="center">I'm a Passionate Third year student from  <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> LPU, Jalandar Learning and Sharing! </h3>
 <h4 align="center">I want to do it differently. I agreee on this Quote “We’re here to make a dent in the universe”. </h4>
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
