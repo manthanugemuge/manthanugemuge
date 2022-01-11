@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
 <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="150px">
  </p>
  
