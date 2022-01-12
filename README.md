@@ -98,3 +98,4 @@
 <br>
 </p>
 
+<i>“You are Doing a fine job Make stuff you are proud of ” </i>
