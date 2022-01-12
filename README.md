@@ -97,5 +97,5 @@
 
 <br>
 </p>
-
+<p align="center">
 <i><b>“You are Doing a fine job Make stuff you are proud of ”</b> </i>
