@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 <!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to collaborate with `Other Content Creators`. Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge).
+- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to collaborate with `Other Content Creators` & `Other People`.
 - 👨‍💻 I’m currently Studing `BTech in CSE 💻`.
 - 🌱 I’m currently Learning  `Data Structures and Algorithms` & `UI/UX`.
 - 🥅 Goals: Contribute more to `Open Source projects` and want to `Keep Learning`.
