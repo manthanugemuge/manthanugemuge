@@ -59,9 +59,11 @@
  
 ### IDE's is use:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://user-images.githubusercontent.com/87055332/149531896-99643100-b811-4ef7-8aab-36bc4b749c2c.png" alt="Intellij IDEA" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87055332/149532471-3c9f35fd-098b-40c7-a6cc-6e10639bfdd1.png" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://www.onlinegdb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87055332/149525097-ee28b32b-1906-4464-8588-8b0db8a4c259.png" alt="GDB online Compiler" width="40" height="40"/> </a>
  
-
+ 
 ## 📊 My Github Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />
