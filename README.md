@@ -60,6 +60,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanUgemuge&theme=tokyonight"  />
+ [<img src="https://novatorem-murex-ten.vercel.app/api/spotify" />](https://open.spotify.com/user/2fdd3174588542689325a7b129adb312)
 <!-- 
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nisarg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 !-->
