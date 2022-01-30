@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 <!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with `Other Content Creators` or `Anyone`.
+- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with `Anyone`.
 - 👨‍💻 I’m currently Studing `BTech in CSE 💻`.
 - 🌱 I’m currently Learning  `Data Structures and Algorithms` & `UI/UX`.
 - 🥅 Goals: Contribute more to `Open Source projects` and want to `Keep Learning`.
@@ -63,6 +63,7 @@
 <!--   <img src="https://novatorem-murex-ten.vercel.app/api/spotify" /> -->
 <!-- 
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nisarg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+`Other Content Creators` or
 !-->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ManthanUgemuge" /> -->
   
