@@ -3,7 +3,7 @@
  </p>
  
 <h1 align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm Manthan </h1>
-<h3 align="center">I'm a Passionate Third Year Student from  <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> LPU, Jalandar Learning and sharing! </h3>
+<h3 align="center">I'm a Passionate Third Year Student from  <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> LPU, Jalandar Learning and Sharing! </h3>
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
 
 ## 🙋‍♂️ About Me
