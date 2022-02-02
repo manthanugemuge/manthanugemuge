@@ -68,7 +68,7 @@
 !-->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ManthanUgemuge" /> -->
   
- <b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <b>Note:</b> Most used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
 ## 📊 **Contribution Graph:**
