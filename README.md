@@ -91,7 +91,7 @@
 <a target="_blank" href="mailto:manthan.ugemuge2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/manthanugemuge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/ManthanUgemuge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://github.com/ManthanUgemuge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
+<!-- <a target="_blank" href="https://github.com/ManthanUgemuge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> -->
 <br>
 </p>
 
