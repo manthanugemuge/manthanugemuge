@@ -13,10 +13,10 @@
 - 🌱 I’m currently Learning  Data Structures and Algorithms & UI/UX.
 - 🥅 Goals: Contribute more to `Open Source projects` and want to `Keep Learning`.
 - ⚡ Fun fact: I love `Listening Podcast`, `Watching Anime`, `Listening Music` and `Playing Video Games`.
-<!-- - ⚡ Fun fact 2: I Love Process of Designing Something. -->
 - 🗺 If you want to Reach me  :  [💬 Click here](https://github.com/ManthanUgemuge/ManthanUgemuge/issues)
 - 💫 Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge).
 <br />
+<!-- - ⚡ Fun fact 2: I Love Process of Designing Something. -->
 
 ### Languages and Tools:
 
