@@ -31,7 +31,6 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="44" height="44"/> </a>
 <a href="https://www.lifewire.com/how-to-open-command-prompt-2618089" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" height="40"/> </a>
 
-
 <!-- <p align="left"> 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -84,6 +83,7 @@
 <p align="center"> >> <img align="center" src="https://profile-counter.glitch.me/{ManthanUgemuge}/count.svg" /> << </p> 
 <br></div>
 </p>
+
 
 <hr>
 <p align="center">
