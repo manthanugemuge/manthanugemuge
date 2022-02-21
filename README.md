@@ -10,7 +10,7 @@
 <!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
 - <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with Anyone.
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
-- 🌱 I’m currently Learning  Data Structures and Algorithms & UI/UX.
+- 🌱 I’m currently Learning  Data Structures and Algorithms & React.
 - 🥅 Goals: Contribute more to `Open Source projects` and want to `Keep Learning`.
 - ⚡ Fun fact: I love `Listening Podcast`, `Watching Anime`, `Listening Music` and `Playing Video Games`.
 - 🗺 If you want to reach me  :  [💬 Click here](https://github.com/ManthanUgemuge/ManthanUgemuge/issues)
