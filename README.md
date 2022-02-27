@@ -74,12 +74,13 @@
  <b>Note:</b> Most used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-## 📊 Contribution Graph:
+<!-- ## 📊 Contribution Graph:
 <p align="center">
  <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=rogue" /></a>
 </p>
 <br/>
-
+ -->
+ 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"> >> <img align="center" src="https://profile-counter.glitch.me/{ManthanUgemuge}/count.svg" /> << </p> 
