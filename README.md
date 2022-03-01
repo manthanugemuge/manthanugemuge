@@ -6,7 +6,7 @@
 <h3 align="center"> <i> I'm a Passionate Third Year Student from <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> --> LPU, Jalandar Learning and Sharing! </h3>
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 <!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
 - <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with Anyone.
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
