@@ -77,11 +77,11 @@
 <br/>
  
 
-## 📊 Contribution Graph:
+<!-- ## 📊 Contribution Graph:
 <p align="center">
  <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=react-dark" /></a>
 </p>
-<br/>
+<br/> -->
 
  
 <div align="center">
