@@ -2,8 +2,7 @@
 <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="150px"> -->
  </p>
  
-<h1 align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm <i> Manthan </i>  </h1> 
-
+<h1 align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm <b> Manthan </b> </h1> 
 *****
 
 <h3 align="center"> < I'm a Passionate Third Year Student from <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> --> LPU, Jalandar Learning and Sharing! > </h3> 
