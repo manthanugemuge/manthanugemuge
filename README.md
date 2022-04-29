@@ -90,7 +90,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"> ●>> <img align="center" src="https://profile-counter.glitch.me/{ManthanUgemuge}/count.svg" /> <<● </p> 
+<a href="https://visitorbadge.io/status?path=ManthanUgemuge"><img src="https://api.visitorbadge.io/api/visitors?path=ManthanUgemuge&label=PROFILE%20VISITS&countColor=%2396f596" /></a>
 <br></div>
 </p>
 
