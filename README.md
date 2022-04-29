@@ -94,6 +94,8 @@
 <br></div>
 </p>
 
+</i>
+
 <hr>
 <p align="center">
   <b>🔽 Ask me anything I'am Happy to Help! Contact <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> Below 🔽 </b>
@@ -106,7 +108,7 @@
 <br>
 </p>
 
-</i>
+
 
 <p align="center">
 <b>“You are Doing a fine job, make Stuff you are proud of.✨ ” </i>
