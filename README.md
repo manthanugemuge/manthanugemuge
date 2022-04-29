@@ -105,7 +105,7 @@
 <!-- <a target="_blank" href="https://github.com/ManthanUgemuge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> -->
 <br>
 </p>
-
+</i>
 <p align="center">
 <i><b>“You are Doing a fine job, make Stuff you are proud of.✨ ”</b> </i>
 </p>
