@@ -1,8 +1,9 @@
 <p align="center">
 <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="150px"> -->
  </p>
- 
-<h1 align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm <b> Manthan </b> </h1> 
+
+
+### <p align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm <b> Manthan. Speed 1 decahertz, memory 1 petabyte.</b> </p>
 *****
 
 <h3 align="center"> < I'm a Passionate Third Year Student from <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> --> LPU, Jalandar Learning and Sharing! > </h3> 
