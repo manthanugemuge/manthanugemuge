@@ -90,7 +90,7 @@
 
 ## 📊 My Github Stats:
 
-|<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />|<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />|
 | ------------- | ------------- |
 <p align="">
  <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=react-dark" /></a>
