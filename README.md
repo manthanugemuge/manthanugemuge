@@ -67,26 +67,6 @@
 
 <b>Note:</b> Not for Show off just Clickable links for personal use.
 --> 
- 
-
- 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanUgemuge&theme=tokyonight"  /> -->
-<!--   <img src="https://novatorem-murex-ten.vercel.app/api/spotify" /> -->
-<!-- 
- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nisarg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-`Other Content Creators` or
-!-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ManthanUgemuge" /> -->
-  
-<!--  <b>Note:</b> Most used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/> -->
- 
-
-<!-- ## 📊 Contribution Graph:
-<p align="center">
- <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=react-dark" /></a>
-</p>
-<br/> -->
 
 ## 📊 My Github Stats:
 
@@ -116,8 +96,6 @@
 <!-- <a target="_blank" href="https://github.com/ManthanUgemuge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> -->
 <br>
 </p>
-
-
 
 <p align="center">
 <b>“You are Doing a fine job, make Stuff you are proud of.✨ ” </i>
