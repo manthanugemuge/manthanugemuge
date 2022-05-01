@@ -2,7 +2,6 @@
 <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/PFP.png" width="150px"> -->
  </p>
 
-
 ### <p align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm <b> Manthan. Speed 1 decahertz, memory 1 petabyte.</b> </p>
 *****
 
@@ -12,7 +11,6 @@
 
 
 ## 🙋‍♂️ About me:
-<!-- - 🔭 I love to do competitive programming: [Checkout my Hackerrank profile!](https://www.hackerrank.com/)! -->
 
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
