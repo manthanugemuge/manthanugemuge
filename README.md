@@ -92,6 +92,12 @@
 
 |<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />|<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />|
 | ------------- | ------------- |
+<p align="">
+ <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=react-dark" /></a>
+</p
+
+
+*****
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <a href="https://visitorbadge.io/status?path=ManthanUgemuge"><img src="https://api.visitorbadge.io/api/visitors?path=ManthanUgemuge&label=PROFILE%20VISITS&countColor=%2396f596" /></a>
