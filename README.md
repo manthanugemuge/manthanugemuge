@@ -15,7 +15,6 @@
 - 🗺 If you want to reach me  :  [💬 Click here](https://github.com/ManthanUgemuge/ManthanUgemuge/issues).
 - 💫 Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge) & [StackOverflow](https://stackoverflow.com/users/17102003/manthan-ugemuge).
 - <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with Anyone.
-<!-- - ⚡ Fun fact 2: I Love Process of Designing Something. -->
 
 ## Languages and Tools:
 
