@@ -89,10 +89,9 @@
 <br/> -->
 
 ## 📊 My Github Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />
 
+|<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />|<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />|
+| ------------- | ------------- |
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <a href="https://visitorbadge.io/status?path=ManthanUgemuge"><img src="https://api.visitorbadge.io/api/visitors?path=ManthanUgemuge&label=PROFILE%20VISITS&countColor=%2396f596" /></a>
