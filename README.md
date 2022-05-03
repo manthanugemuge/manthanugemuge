@@ -6,7 +6,7 @@
  
 
 
-## 🙋‍♂️ About me:
+### 🙋‍♂️ About me:
 
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
@@ -16,7 +16,7 @@
 - 💫 Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge) & [StackOverflow](https://stackoverflow.com/users/17102003/manthan-ugemuge).
 - <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with Anyone.
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
