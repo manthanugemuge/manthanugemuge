@@ -1,10 +1,10 @@
 ### <p align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" width="29px">, I'm <b> Manthan. Speed 1 decahertz, memory 1 petabyte.</b> </p>
 *****
 
-#### <p align="center"> Im a Passionate Third Year Student from <!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> --> LPU, Jalandar Learning and Sharing!  </p> 
+#### <p align="center"> Im a Passionate Third Year Student from  LPU, Jalandar Learning and Sharing!  </p> 
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
  
-
+<!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> -->
 
 ### 🙋‍♂️ About me:
 
