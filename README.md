@@ -64,7 +64,6 @@
 <br></div>
 </p>
 
-
 <hr>
 <p align="center">
   <b> Ask me anything I am Happy to Help! Contact <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> Below  </b>
