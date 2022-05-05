@@ -3,17 +3,11 @@
 
 #### <p align="center"> Im a Passionate Third Year Student from  LPU, Jalandar Learning and Sharing!  </p> 
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
- 
-<!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/LPU.png" width="20px"> -->
 
 ### 🙋‍♂️ About me:
 
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
-- 🥅 Goals: Contribute more to `Open Source projects` and want to `Keep Learning`.
-- ⚡ Fun fact: I love Listening Podcast, Watching Anime, Listening Music and Playing Video Games.
-- 🗺 If you want to reach me  :  [💬 Click here](https://github.com/ManthanUgemuge/ManthanUgemuge/issues).
-- 💫 Helping people on [Quora](https://www.quora.com/profile/Manthan-Ugemuge) & [StackOverflow](https://stackoverflow.com/users/17102003/manthan-ugemuge).
 - <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with Anyone.
 
 ### Languages and Tools:
@@ -72,9 +66,6 @@
 <a target="_blank" href="https://www.instagram.com/manthanugemuge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/manthanugemuge/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/ManthanUgemuge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-
-
-<!-- <a target="_blank" href="https://github.com/ManthanUgemuge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> -->
 <br>
 </p>
 
