@@ -54,7 +54,7 @@
 *****
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<a href="https://visitorbadge.io/status?path=ManthanUgemuge"><img src="https://api.visitorbadge.io/api/visitors?path=ManthanUgemuge&label=PROFILE%20VISITS&countColor=%2396f596" /></a>
+<a href="https://visitorbadge.io/status?path=ManthanUgemuge"><img src="https://api.visitorbadge.io/api/visitors?path=ManthanUgemuge&label=PROFILE%20VISITS&countColor=blue" /></a>
 <br></div>
 </p>
 
