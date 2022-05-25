@@ -8,7 +8,9 @@
 
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> I’m looking to Collaborate with Anyone.
+-  I’m looking to Collaborate with Anyone.
+
+<img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px">
 
 ### Languages and Tools:
 
