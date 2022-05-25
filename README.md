@@ -10,7 +10,7 @@
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
 -  I’m looking to Collaborate with Anyone.
 
-<img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px">
+<!-- <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" width="40px"> -->
 
 ### Languages and Tools:
 
