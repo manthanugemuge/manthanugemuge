@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-<b>“You are Doing a fine job, make Stuff you are proud of.✨ ” </i>
+<b>“You are Doing a fine job, make stuff you are proud of.✨ ” </i>
 </p>
