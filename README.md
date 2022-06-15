@@ -9,7 +9,6 @@
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
 - 🤝 I’m looking to Collaborate with Anyone.
 
-
 ### Languages and Tools:
 
 <p align="center"> 
