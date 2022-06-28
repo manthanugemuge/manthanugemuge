@@ -9,7 +9,7 @@
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React.
 - 🤝 I’m looking to Collaborate with Anyone.
 
-### Languages and Tools:
+### 👉 Languages and Tools:
 
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
