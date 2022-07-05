@@ -58,8 +58,8 @@
 </p>
 
 <hr>
-<p align="center">
-  Ask me anything I am Happy to Help! Contact below <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" height="29px" width="29px>
+<!-- <p align="center">
+  Ask me anything I am Happy to Help! Contact below <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" height="29px" width="29px> --!>
 
    
    <p align="center">
