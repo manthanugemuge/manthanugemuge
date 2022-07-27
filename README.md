@@ -1,5 +1,7 @@
 ### <p align="center"> Hello there <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" height="29px" width="29px">, I am <b> Manthan. Speed 1 Decahertz, Memory 1 Petabyte.</b> </p>
+
 *****
+
 #### <p align="center"> Im a Passionate Third Year Student from  LPU, Jalandar Learning and Sharing !!!  </p> 
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
 
