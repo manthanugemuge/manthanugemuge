@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently Studing BTech in CSE 💻.
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React Js.
-- 🤝 I’m looking to Collaborate .
+- 🤝 I’m looking to Collaborate.
 -
 
 ### 👉 Languages and Tools:
