@@ -7,7 +7,7 @@
 
 ### 🙋‍♂️ About me:
 
-- 👨‍💻 I’m currently Studing BTech in CSE 💻.
+- 👨‍💻 I’m currently Studing B.Tech in CSE 💻.
 - 🌱 I’m currently Learning  Data Structures and Algorithms & React Js.
 - 🤝 I’m looking to Collaborate.
 -
