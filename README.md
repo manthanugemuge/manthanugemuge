@@ -2,7 +2,7 @@
 
 *****
 
-#### <p align="center"> Im a Passionate Third Year Student from  LPU, Jalandar Learning and Sharing !!!  </p> 
+#### <p align="center"> Im a Passionate Third Year Student from  LPU, Jalandar. Learning and Sharing !!!  </p> 
 <!-- -<h3 align="center">📄<a href="https://github.com/ManthanUgemuge/Resume/blob/main/"> My Resume </a> </h3></div>-->
 
 ### 🙋‍♂️ About me:
