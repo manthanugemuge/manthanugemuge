@@ -52,34 +52,36 @@
 
 ## 📊 My Github Stats:
 
-|<img src="https://github-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" />|
-| ------------- | ------------- |
-<p align="">
- <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManthanUgemuge&theme=react-dark" /></a>
-</p
+<div align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanUgemuge&theme=react-dark" alt="Activity Graph" />
+</div>
 
 *****
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <a href="https://visitorbadge.io/status?path=ManthanUgemuge"><img src="https://api.visitorbadge.io/api/visitors?path=ManthanUgemuge&label=PROFILE%20VISITS&countColor=%2396f596" /></a>
 <br></div>
-</p>
 
 <hr>
 <!-- <p align="center">
-  Ask me anything I am Happy to Help! Contact below <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" height="29px" width="29px> --!>
+  Ask me anything I am Happy to Help! Contact below <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Handshake.gif" height="29px" width="29px"> -->
 
- #### <p align="center"> Ask me anything. I am Happy to Help! Contact Below. </p>   
-   <p align="center">
+#### <p align="center"> Ask me anything. I am Happy to Help! Contact Below. </p>   
+<p align="center">
 <a target="_blank" href="mailto:manthan.ugemuge2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/manthanugemuge/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/ManthanUgemuge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/manthanugemuge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-
 </p>
 
 <p align="center">
-<b>“You are Doing a fine job, make stuff you are proud of.✨ ” </i> </p>
+<b>“You are Doing a fine job, make stuff you are proud of.✨ ”</b> </p>
 
-<!-- https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Quote.png --!>
+<!-- https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Quote.png -->
