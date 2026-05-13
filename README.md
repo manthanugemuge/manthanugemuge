@@ -52,10 +52,12 @@
 
 ## 📊 My Github Stats:
 
-<div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center"><img src="https://gh-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanUgemuge&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 <br />
 
