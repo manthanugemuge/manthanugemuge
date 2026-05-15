@@ -11,8 +11,6 @@
 
 ## 🙋‍♂️ About me
 
-*****
-
 - 🎨 Multidisciplinary designer - **product, motion, video editing, and AI creative direction**, all under my brand **bymanthan**
 - 🧪 Running a **120-experiment Figma design challenge** - 67 posted publicly and counting
 - 🤖 I **vibe-code** my own tools with AI - Figma plugins, macOS apps, and creative software. Design-led, AI does the heavy lifting, I steer
@@ -20,8 +18,6 @@
 - ✨ Building toward one belief - **good design makes AI feel human, not intimidating**
 
 ## 🏆 Currently
-
-*****
 
 - 🪧 **Made in Figma** - Figma selected my origami hummingbird piece *"Folds won't stop the wings"* for their **OOH billboard series in San Francisco**
 - 🍳 **Cooking** with precision, love & bit of extra sauce :)
@@ -48,8 +44,6 @@
 </p> -->
 
 ## 🛠️ My Stack
-
-*****
 
 #### 🎨 Design
 
@@ -127,7 +121,6 @@
 
 ## 📊 My Github Stats
 
-*****
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center"><img src="https://gh-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
