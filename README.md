@@ -9,7 +9,7 @@
 
 #### <p align="center"> 🎨 **Self-taught multidisciplinary designer** - I design, animate, edit, and ship tools that live somewhere between Figma and real world. </p>
 
-### 🙋‍♂️ About me
+## 🙋‍♂️ About me
 
 <img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
 
@@ -47,7 +47,7 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> </a>
 </p> -->
 
-### 🛠️ My Stack
+## 🛠️ My Stack
 
 <img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
 
@@ -125,7 +125,7 @@
 
 <br />
 
-### 📊 My Github Stats
+## 📊 My Github Stats
 
 <img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
 
