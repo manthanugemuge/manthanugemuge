@@ -1,19 +1,21 @@
-### <p align="center"> <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Hi.gif" height="29px" width="29px" align="middle"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=130&lines=Hello+there;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;Bonjour;Ciao;Konnichiwa" alt="Typing Greeting" align="middle" />  <br/> I am <b>Manthan Ugemuge!</b> </p>
+### <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=130&lines=Hello+there;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;Bonjour;Ciao;Konnichiwa" alt="Typing Greeting" align="middle" />  <br/> I am <b> <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Hi.gif" height="29px" width="29px" align="top"> Manthan Ugemuge!</b> Master of all trades <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Handshake.gif" height="29px" width="29px"> </p>
 
 <p align="center">
-  <i>Speed 1 Decahertz | Memory 1 Petabyte</i>
+  <i>Speed 1 Decahertz | Memory 1 Petabyte</i><br/>
+  <b>Designer · Video Editor · Motion Designer · AI Creative Director · Gamer</b>
 </p>
 
 *****
 
-#### <p align="center"> 🚀 Computer Science Student at LPU, Jalandhar | Passionate about Web Development & Problem Solving </p>
+#### <p align="center"> 🎨 **Self-taught multidisciplinary designer** - I design, animate, edit, and ship tools that live somewhere between Figma and real world. </p>
 
 ### 🙋‍♂️ About me
 
-- 👨‍💻 I’m currently pursuing my **B.Tech in Computer Science & Engineering**.
-- 🌱 I’m actively learning and building projects with **React.js, Data Structures & Algorithms**.
-- 💡 I enjoy crafting dynamic user interfaces, exploring new web technologies, and writing clean code.
-- 🤝 I’m looking to collaborate on exciting open-source projects and hackathons.
+- 🎨 Multidisciplinary designer - **product, motion, video editing, and AI creative direction**, all under my brand **bymanthan**
+- 🧪 Running a **120-experiment Figma design challenge** - 67 posted publicly and counting
+- 🤖 I **vibe-code** my own tools with AI - Figma plugins, macOS apps, and creative software. Design-led, AI does the heavy lifting, I steer
+- 💡 I enjoy designing interfaces that feel alive - systems, motion, and the tiny details people can't explain but definitely feel
+- ✨ Building toward one belief - **good design makes AI feel human, not intimidating**
 
 <!-- ### 👉 Languages and Tools
 
@@ -102,7 +104,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arc-000?style=for-the-badge&logo=arc&logoColor=white" alt="Arc" />
-  <img src="https://img.shields.io/badge/Dia%20Browser-000000?style=for-the-badge&logo=arc&logoColor=white" alt="Dia Browser" />
+  <img src="https://img.shields.io/badge/Dia%20Browser-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNIDIwIDcwIEEgMzAgMzAgMCAxIDEgODAgNzAgQSA0MCAyMCAwIDAgMCAyMCA3MCBaIiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" alt="Dia Browser" />
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave" />
   <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
@@ -141,9 +143,9 @@
 #### <p align="center"> Ask me anything. I am Happy to Help! Contact Below. </p>
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/manthanugemuge/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/ManthanUgemuge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/manthanugemuge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/manthanugemuge/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NmIyIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4wNiA0OC43M2gxOC4xMVYxMDdIMjEuMDZ6bTkuMDYtMjlhMTAuNSAxMC41IDAgMTEtMTAuNSAxMC40OSAxMC41IDEwLjUgMCAwMTEwLjUtMTAuNDlNNTAuNTMgNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M3oiPjwvcGF0aD48L3N2Zz4="></img></a>
+<a href="https://x.com/bymanthan" target="_blank"><img src="https://img.shields.io/badge/X/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a target="_blank" href="https://www.instagram.com/bymanthan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
 <p align="center">
