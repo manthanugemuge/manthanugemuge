@@ -1,4 +1,4 @@
-### <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=130&lines=Hello+there;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;Bonjour;Ciao;Konnichiwa" alt="Typing Greeting" align="middle" />  <br/> I am <b> <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Hi.gif" height="29px" width="29px" align="top"> Manthan Ugemuge!</b> Master of all trades <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Handshake.gif" height="29px" width="29px"> </p>
+### <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=130&lines=Hello+there;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;Bonjour;Ciao;Konnichiwa" alt="Typing Greeting" align="middle" />  <br/> I am <b> <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Hi.gif" height="29px" width="29px" align="top"> Manthan Ugemuge!</b> Master of all trades <img src="https://raw.githubusercontent.com/ManthanUgemuge/ManthanUgemuge/main/Assets/Handshake.gif" height="29px" width="50px" align="top"> Speedrunner </p>
 
 <p align="center">
   <i>Speed 1 Decahertz | Memory 1 Petabyte</i><br/>
@@ -11,11 +11,21 @@
 
 ### 🙋‍♂️ About me
 
+<img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
+
 - 🎨 Multidisciplinary designer - **product, motion, video editing, and AI creative direction**, all under my brand **bymanthan**
 - 🧪 Running a **120-experiment Figma design challenge** - 67 posted publicly and counting
 - 🤖 I **vibe-code** my own tools with AI - Figma plugins, macOS apps, and creative software. Design-led, AI does the heavy lifting, I steer
 - 💡 I enjoy designing interfaces that feel alive - systems, motion, and the tiny details people can't explain but definitely feel
 - ✨ Building toward one belief - **good design makes AI feel human, not intimidating**
+
+## 🏆 Currently
+
+<img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
+
+- 🪧 **Made in Figma** - Figma selected my origami hummingbird piece *"Folds won't stop the wings"* for their **OOH billboard series in San Francisco**
+- 🍳 **Cooking** with precision, love & bit of extra sauce :)
+- 🎮 **Speedrunning** life's challenges :P
 
 <!-- ### 👉 Languages and Tools
 
@@ -38,6 +48,8 @@
 </p> -->
 
 ### 🛠️ My Stack
+
+<img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
 
 #### 🎨 Design
 
@@ -105,7 +117,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Arc-000?style=for-the-badge&logo=arc&logoColor=white" alt="Arc" />
   <img src="https://img.shields.io/badge/Dia%20Browser-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNIDIwIDcwIEEgMzAgMzAgMCAxIDEgODAgNzAgQSA0MCAyMCAwIDAgMCAyMCA3MCBaIiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" alt="Dia Browser" />
-  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave" />
   <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -114,7 +125,9 @@
 
 <br />
 
-## 📊 My Github Stats
+### 📊 My Github Stats
+
+<img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
