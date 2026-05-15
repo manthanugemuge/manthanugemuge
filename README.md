@@ -128,7 +128,6 @@
 ## 📊 My Github Stats
 
 <img src="https://user-images.githubusercontent.com/0/0.gif" height="1" width="100%" style="background: #e1e4e8;">
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center"><img src="https://gh-readme-stats.vercel.app/api?username=ManthanUgemuge&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
